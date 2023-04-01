@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mengez
 - 👀 I’m interested in new ฿lockchain Technologies and Crypto currencies 
-- 🌱 I’m currently learning Web Developings, Artificial inteligence and machine learning
+- 🌱 I’m currently learning Web Developings, Artificial inteligence and machines
 - 💞️ I’m looking to collaborate on helping the adpotion decentralized networks
 - 📫 How to reach me ? email: mengilocal@gmail.com
 primary : crowd.mlunga@yahooo.com
